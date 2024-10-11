@@ -157,14 +157,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 0;
 }
 #fh5co-header .nav li a {
-  font-family: "Roboto Slab", Arial, sans-serif;
-  color: black;
-  position: relative;
-  font-weight: 400;
-  -webkit-transition: 0.5s;
-  -o-transition: 0.5s;
-  transition: 0.5s;
-  padding: 0;
+    font-family: Candara,"Roboto Slab", Arial, sans-serif;
+    color: black;
+    position: relative;
+    font-weight: 400;
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    padding: 0;
 }
 #fh5co-header .nav li a:hover, #fh5co-header .nav li a:focus {
   color: gray !important;
