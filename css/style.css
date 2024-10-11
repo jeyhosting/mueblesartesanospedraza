@@ -18,8 +18,34 @@ body {
   background: #eeeff0;
   font-weight: 300;
   
-  /* background-image: url("../images/bg-20.jpg"); */
+  
+  /* background-image: url("../images/bg-1.jpg"); */
+  /* background-position: center; */
+  /* background-size: cover;  */
+  
+}
+
+#bodyImg {   
+  background-image: url("../images/bg-20.jpg");
+  background-position: center;
+  background-size: cover; 
+}
+
+#bodyImgPrimary {  
   background-image: url("../images/bg-1.jpg");
+  background-position: center;
+  background-size: cover; 
+}
+
+#bodyImgSecondary {  
+  background-image: url("../images/bg-26.jpg");
+  background-position: center;
+  background-size: cover; 
+  /* display: flex; */
+}
+
+#bodyImgTerciary {  
+  background-image: url("../images/bg-25.jpg");
   background-position: center;
   background-size: cover; 
   /* display: flex; */
