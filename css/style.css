@@ -14,7 +14,7 @@
 body {
   font-family: "Roboto", Arial, sans-serif;
   line-height: 1.8;
-  font-size: 20px;
+  font-size: 18px;
   background: #eeeff0;
   font-weight: 300;
   
@@ -24,6 +24,8 @@ body {
   /* background-size: cover;  */
   
 }
+
+
 
 #bodyImg {   
   background-image: url("../images/bg-20.jpg");
@@ -67,7 +69,7 @@ a:focus, a:active {
 
 p {
     margin-bottom: 1.5em;
-    font-size: 20px;
+    font-size: 18px;
     color: #000000;
     font-weight: 300;
     font-family: "Roboto", Arial, sans-serif;
@@ -103,14 +105,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #fh5co-header {
-    padding-top: 70px;
+    padding-top: 30px;
     padding-bottom: 0;
     margin-bottom: 10px;
 }
 @media screen and (max-width: 992px) {
   #fh5co-header {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    padding-bottom: 80px;
+    padding-bottom: 50px;
   }
 }
 #fh5co-header .navbar-default {
@@ -141,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
 }
 #fh5co-header .nav li {
-  font-size: 20px;
+  font-size: 18px;
   display: inline-block;
   margin-left: 50px;
 }
@@ -171,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 480px) {
   #fh5co-header .nav li a {
-    padding: 10px 0;
+    /* padding: 10px 0; */
   }
 }
 #fh5co-header .nav li.active a {
@@ -216,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .intro h2 {
   font-family: "Roboto", Arial, sans-serif;
-  font-size: 30px;
+  font-size: 27px;
   font-weight: 300;
   line-height: 1.5em;
 }
@@ -234,14 +236,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 #services .service h2 {
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 10px;
 }
 #services .service .service-icon {
   margin-bottom: 30px;
 }
 #services .service .service-icon i {
-    font-size: 40px;
+    font-size: 36px;
     color: #c15646;
 }
 #services .service p {
@@ -336,7 +338,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 10px;
 }
 #product .post-entry .post > div span {
-  font-size: 20px;
+  font-size: 18px;
 }
 @media screen and (max-width: 480px) {
   #product .post-entry .post > div {
@@ -387,17 +389,17 @@ footer .social {
 }
 @media screen and (max-width: 768px) {
   .section-heading h2 {
-    font-size: 30px;
+    font-size: 28px;
   }
 }
 .section-heading p {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 300;
     color: rgba(0,0,0,.9);
 }
 @media screen and (max-width: 768px) {
   .section-heading p {
-    font-size: 24px !important;
+    font-size: 22px !important;
     line-height: 34px;
   }
 }
@@ -407,7 +409,7 @@ footer .social {
   width: 100%;
   height: 57px;
   padding: 10px 20px;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.42857;
   color: #555555;
   background-color: #fff;
@@ -423,7 +425,7 @@ footer .social {
 
 #submit {
   height: 57px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 @media screen and (max-width: 768px) {
@@ -485,7 +487,7 @@ footer .social {
   display: inline-block;
 }
 .social li a {
-  font-size: 24px;
+  font-size: 22px;
   display: table;
   width: 24px;
   height: 24px;
