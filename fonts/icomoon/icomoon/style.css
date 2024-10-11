@@ -419,7 +419,7 @@
 .icon-bar-chart-o:before {
 	content: "\f080";
 }
-.icon-facebook-square:before {
+.icon-twitter-square:before {
 	content: "\f081";
 }
 .icon-facebook-square:before {
@@ -491,7 +491,7 @@
 .icon-phone-square:before {
 	content: "\f098";
 }
-.icon-facebook:before {
+.icon-twitter:before {
 	content: "\f099";
 }
 .icon-facebook:before {
@@ -1199,7 +1199,7 @@
 .icon-linux:before {
 	content: "\f17c";
 }
-.icon-flickr:before {
+.icon-dribbble:before {
 	content: "\f17d";
 }
 .icon-skype:before {
