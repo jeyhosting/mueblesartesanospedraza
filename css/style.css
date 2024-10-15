@@ -96,12 +96,19 @@ h1, h2, h3, h4, h5, h6 {
   color: #fcfcfc;
   background: #52d3aa;
 }
-
+/*
 .box-wrap {
     background: #d7c8ae;
     max-width: 1300px;
     margin: 0 auto;
     opacity: 0.8;
+}
+*/
+.box-wrap {
+    background: #f1e9dd;
+    max-width: 1300px;
+    margin: 0 auto;
+    opacity: 0.92;
 }
 
 #fh5co-header {
